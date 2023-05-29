@@ -1,0 +1,8 @@
+.pagination-container{
+    display: flex;
+    justify-content: center;
+}
+.page-movement{
+margin: 0 auto;
+margin-bottom: 10px;
+}

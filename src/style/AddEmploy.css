@@ -1,0 +1,32 @@
+.employ-top-conatiner{
+    width:100%;
+    height: 80px;
+    background-color: rgb(196, 80, 118);
+    color:white;
+    justify-content: center;
+    align-items: center;
+}
+.first-line-input{
+    margin:50px
+}
+.second-line-input{
+    margin:50px
+}
+.third-line-input{
+    margin:50px
+}
+.fourth-line-input{
+    margin:50px
+}
+.fifth-line-input{
+    margin:50px
+}
+.buttons{
+    margin-right: 20px;
+}
+.file-upload{
+    width:90%;
+    height:200px;
+    margin-left: 60px;
+    background-color:gainsboro;
+}
